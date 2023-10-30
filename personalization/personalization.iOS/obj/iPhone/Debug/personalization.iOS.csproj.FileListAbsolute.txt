@@ -1,0 +1,11 @@
+C:\Users\marir\Desktop\pruebas\personalizationWorking - Copy\personalization\personalization.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+C:\Users\marir\Desktop\pruebas\personalizationWorking - Copy\personalization\personalization.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\marir\Desktop\pruebas\personalizationWorking - Copy\personalization\personalization.iOS\obj\iPhone\Debug\actool\_ProcessedImageAssetsPath.items
+C:\Users\marir\Desktop\pruebas\personalizationWorking - Copy\personalization\personalization.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+C:\Users\marir\Desktop\pruebas\personalizationWorking - Copy\personalization\personalization.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\marir\Desktop\pruebas\personalizationWorking - Copy\personalization\personalization.iOS\obj\iPhone\Debug\coremlc\_ProcessedCoreMLModelsPath.items
+C:\Users\marir\Desktop\pruebas\personalizationWorking - Copy\personalization\personalization.iOS\obj\iPhone\Debug\_ProcessedBundleResourcesPath.items
+C:\Users\marir\Desktop\pruebas\personalizationWorking - Copy\personalization\personalization.iOS\obj\iPhone\Debug\_ProcessedContentPath.items
+C:\Users\marir\Desktop\pruebas\personalizationWorking - Copy\personalization\personalization.iOS\obj\iPhone\Debug\optimized\
+C:\Users\marir\Desktop\pruebas\personalizationWorking - Copy\personalization\personalization.iOS\obj\iPhone\Debug\personalization.iOS.csproj.AssemblyReference.cache
+C:\Users\marir\Desktop\pruebas\personalizationWorking - Copy\personalization\personalization.iOS\obj\iPhone\Debug\personalization.iOS.csproj.CoreCompileInputs.cache

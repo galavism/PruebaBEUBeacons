@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.companyname.personalization"
+    android:versionCode="1"
+    android:versionName="1.0">
+
+    <uses-sdk
+        android:minSdkVersion="21"
+        android:targetSdkVersion="33" />
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:label="personalization.Android"
+        android:theme="@style/MainTheme"
+        android:usesCleartextTraffic="true">
+
+        <!-- Aquí se añade el receiver necesario -->
+        <receiver
+            android:name="org.altbeacon.beacon.startup.StartupBroadcastReceiver"
+            android:enabled="true"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+                <action android:name="android.intent.action.MY_PACKAGE_REPLACED" />
+            </intent-filter>
+        </receiver>
+        
+        <!-- Aquí se pueden agregar otros componentes de la aplicación, como activities, services, etc. -->
+
+    </application>
+</manifest>

@@ -1,0 +1,79 @@
+C:\Users\marir\Desktop\pruebas\personalization\personalization\personalization\obj\Debug\netstandard2.0\personalization.csproj.AssemblyReference.cache
+C:\Users\marir\Desktop\pruebas\personalization\personalization\personalization\obj\Debug\netstandard2.0\personalization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marir\Desktop\pruebas\personalization\personalization\personalization\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\marir\Desktop\pruebas\personalization\personalization\personalization\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+C:\Users\marir\Desktop\pruebas\personalization\personalization\personalization\obj\Debug\netstandard2.0\Views\CJFDView.xaml.g.cs
+C:\Users\marir\Desktop\pruebas\personalization\personalization\personalization\obj\Debug\netstandard2.0\personalization.AssemblyInfoInputs.cache
+C:\Users\marir\Desktop\pruebas\personalization\personalization\personalization\obj\Debug\netstandard2.0\personalization.AssemblyInfo.cs
+C:\Users\marir\Desktop\pruebas\personalization\personalization\personalization\obj\Debug\netstandard2.0\personalization.csproj.CoreCompileInputs.cache
+C:\Users\marir\Desktop\pruebas\personalization\personalization\personalization\obj\Debug\netstandard2.0\personalization.dll
+C:\Users\marir\Desktop\pruebas\personalization\personalization\personalization\obj\Debug\netstandard2.0\refint\personalization.dll
+C:\Users\marir\Desktop\pruebas\personalization\personalization\personalization\obj\Debug\netstandard2.0\personalization.pdb
+C:\Users\marir\Desktop\pruebas\personalization\personalization\personalization\bin\Debug\netstandard2.0\personalization.deps.json
+C:\Users\marir\Desktop\pruebas\personalization\personalization\personalization\bin\Debug\netstandard2.0\personalization.dll
+C:\Users\marir\Desktop\pruebas\personalization\personalization\personalization\bin\Debug\netstandard2.0\ref\personalization.dll
+C:\Users\marir\Desktop\pruebas\personalization\personalization\personalization\bin\Debug\netstandard2.0\personalization.pdb
+C:\Users\marir\Desktop\pruebas\personalization\personalization\personalization\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\marir\Desktop\pruebas\personalization\personalization\personalization\obj\Debug\netstandard2.0\Views\CGCView.xaml.g.cs
+C:\Users\marir\Desktop\pruebas\personalization\personalization\personalization\obj\Debug\netstandard2.0\Views\PriorityView.xaml.g.cs
+C:\Users\marir\Desktop\pruebas\personalizationWorking - Copy\personalization\personalization\obj\Debug\netstandard2.0\personalization.csproj.AssemblyReference.cache
+C:\Users\marir\Desktop\pruebas\personalizationWorking - Copy\personalization\personalization\obj\Debug\netstandard2.0\personalization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marir\Desktop\pruebas\personalizationWorking - Copy\personalization\personalization\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\marir\Desktop\pruebas\personalizationWorking - Copy\personalization\personalization\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+C:\Users\marir\Desktop\pruebas\personalizationWorking - Copy\personalization\personalization\obj\Debug\netstandard2.0\Views\CGCView.xaml.g.cs
+C:\Users\marir\Desktop\pruebas\personalizationWorking - Copy\personalization\personalization\obj\Debug\netstandard2.0\Views\CJFDView.xaml.g.cs
+C:\Users\marir\Desktop\pruebas\personalizationWorking - Copy\personalization\personalization\obj\Debug\netstandard2.0\Views\EventsMainPageView.xaml.g.cs
+C:\Users\marir\Desktop\pruebas\personalizationWorking - Copy\personalization\personalization\obj\Debug\netstandard2.0\Views\PriorityView.xaml.g.cs
+C:\Users\marir\Desktop\pruebas\personalizationWorking - Copy\personalization\personalization\obj\Debug\netstandard2.0\personalization.AssemblyInfoInputs.cache
+C:\Users\marir\Desktop\pruebas\personalizationWorking - Copy\personalization\personalization\obj\Debug\netstandard2.0\personalization.AssemblyInfo.cs
+C:\Users\marir\Desktop\pruebas\personalizationWorking - Copy\personalization\personalization\obj\Debug\netstandard2.0\personalization.csproj.CoreCompileInputs.cache
+C:\Users\marir\Desktop\pruebas\personalizationWorking - Copy\personalization\personalization\obj\Debug\netstandard2.0\personalization.dll
+C:\Users\marir\Desktop\pruebas\personalizationWorking - Copy\personalization\personalization\obj\Debug\netstandard2.0\refint\personalization.dll
+C:\Users\marir\Desktop\pruebas\personalizationWorking - Copy\personalization\personalization\obj\Debug\netstandard2.0\personalization.pdb
+C:\Users\marir\Desktop\pruebas\personalizationWorking - Copy\personalization\personalization\bin\Debug\netstandard2.0\personalization.deps.json
+C:\Users\marir\Desktop\pruebas\personalizationWorking - Copy\personalization\personalization\bin\Debug\netstandard2.0\personalization.dll
+C:\Users\marir\Desktop\pruebas\personalizationWorking - Copy\personalization\personalization\bin\Debug\netstandard2.0\ref\personalization.dll
+C:\Users\marir\Desktop\pruebas\personalizationWorking - Copy\personalization\personalization\bin\Debug\netstandard2.0\personalization.pdb
+C:\Users\marir\Desktop\pruebas\personalizationWorking - Copy\personalization\personalization\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\marir\Desktop\pruebas\personalizationREST - Copy\personalization\personalization\bin\Debug\netstandard2.0\personalization.deps.json
+C:\Users\marir\Desktop\pruebas\personalizationREST - Copy\personalization\personalization\bin\Debug\netstandard2.0\personalization.dll
+C:\Users\marir\Desktop\pruebas\personalizationREST - Copy\personalization\personalization\bin\Debug\netstandard2.0\ref\personalization.dll
+C:\Users\marir\Desktop\pruebas\personalizationREST - Copy\personalization\personalization\bin\Debug\netstandard2.0\personalization.pdb
+C:\Users\marir\Desktop\pruebas\personalizationREST - Copy\personalization\personalization\obj\Debug\netstandard2.0\personalization.csproj.AssemblyReference.cache
+C:\Users\marir\Desktop\pruebas\personalizationREST - Copy\personalization\personalization\obj\Debug\netstandard2.0\personalization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marir\Desktop\pruebas\personalizationREST - Copy\personalization\personalization\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\marir\Desktop\pruebas\personalizationREST - Copy\personalization\personalization\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+C:\Users\marir\Desktop\pruebas\personalizationREST - Copy\personalization\personalization\obj\Debug\netstandard2.0\Views\CGCView.xaml.g.cs
+C:\Users\marir\Desktop\pruebas\personalizationREST - Copy\personalization\personalization\obj\Debug\netstandard2.0\Views\CJFDView.xaml.g.cs
+C:\Users\marir\Desktop\pruebas\personalizationREST - Copy\personalization\personalization\obj\Debug\netstandard2.0\Views\EventsMainPageView.xaml.g.cs
+C:\Users\marir\Desktop\pruebas\personalizationREST - Copy\personalization\personalization\obj\Debug\netstandard2.0\Views\PriorityView.xaml.g.cs
+C:\Users\marir\Desktop\pruebas\personalizationREST - Copy\personalization\personalization\obj\Debug\netstandard2.0\personalization.AssemblyInfoInputs.cache
+C:\Users\marir\Desktop\pruebas\personalizationREST - Copy\personalization\personalization\obj\Debug\netstandard2.0\personalization.AssemblyInfo.cs
+C:\Users\marir\Desktop\pruebas\personalizationREST - Copy\personalization\personalization\obj\Debug\netstandard2.0\personalization.csproj.CoreCompileInputs.cache
+C:\Users\marir\Desktop\pruebas\personalizationREST - Copy\personalization\personalization\obj\Debug\netstandard2.0\personalization.csproj.Fody.CopyLocal.cache
+C:\Users\marir\Desktop\pruebas\personalizationREST - Copy\personalization\personalization\obj\Debug\netstandard2.0\personalization.csproj.Fody.RuntimeCopyLocal.cache
+C:\Users\marir\Desktop\pruebas\personalizationREST - Copy\personalization\personalization\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\marir\Desktop\pruebas\personalizationREST - Copy\personalization\personalization\obj\Debug\netstandard2.0\personalization.dll
+C:\Users\marir\Desktop\pruebas\personalizationREST - Copy\personalization\personalization\obj\Debug\netstandard2.0\refint\personalization.dll
+C:\Users\marir\Desktop\pruebas\personalizationREST - Copy\personalization\personalization\obj\Debug\netstandard2.0\personalization.pdb
+C:\Users\marir\Desktop\pruebas\personalizationRESTAndroid\personalization\personalization\bin\Debug\netstandard2.0\personalization.deps.json
+C:\Users\marir\Desktop\pruebas\personalizationRESTAndroid\personalization\personalization\bin\Debug\netstandard2.0\personalization.dll
+C:\Users\marir\Desktop\pruebas\personalizationRESTAndroid\personalization\personalization\bin\Debug\netstandard2.0\ref\personalization.dll
+C:\Users\marir\Desktop\pruebas\personalizationRESTAndroid\personalization\personalization\bin\Debug\netstandard2.0\personalization.pdb
+C:\Users\marir\Desktop\pruebas\personalizationRESTAndroid\personalization\personalization\obj\Debug\netstandard2.0\personalization.csproj.AssemblyReference.cache
+C:\Users\marir\Desktop\pruebas\personalizationRESTAndroid\personalization\personalization\obj\Debug\netstandard2.0\personalization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marir\Desktop\pruebas\personalizationRESTAndroid\personalization\personalization\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\marir\Desktop\pruebas\personalizationRESTAndroid\personalization\personalization\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+C:\Users\marir\Desktop\pruebas\personalizationRESTAndroid\personalization\personalization\obj\Debug\netstandard2.0\Views\CGCView.xaml.g.cs
+C:\Users\marir\Desktop\pruebas\personalizationRESTAndroid\personalization\personalization\obj\Debug\netstandard2.0\Views\CJFDView.xaml.g.cs
+C:\Users\marir\Desktop\pruebas\personalizationRESTAndroid\personalization\personalization\obj\Debug\netstandard2.0\Views\EventsMainPageView.xaml.g.cs
+C:\Users\marir\Desktop\pruebas\personalizationRESTAndroid\personalization\personalization\obj\Debug\netstandard2.0\Views\PriorityView.xaml.g.cs
+C:\Users\marir\Desktop\pruebas\personalizationRESTAndroid\personalization\personalization\obj\Debug\netstandard2.0\personalization.AssemblyInfoInputs.cache
+C:\Users\marir\Desktop\pruebas\personalizationRESTAndroid\personalization\personalization\obj\Debug\netstandard2.0\personalization.AssemblyInfo.cs
+C:\Users\marir\Desktop\pruebas\personalizationRESTAndroid\personalization\personalization\obj\Debug\netstandard2.0\personalization.csproj.CoreCompileInputs.cache
+C:\Users\marir\Desktop\pruebas\personalizationRESTAndroid\personalization\personalization\obj\Debug\netstandard2.0\personalization.csproj.Fody.CopyLocal.cache
+C:\Users\marir\Desktop\pruebas\personalizationRESTAndroid\personalization\personalization\obj\Debug\netstandard2.0\personalization.csproj.Fody.RuntimeCopyLocal.cache
+C:\Users\marir\Desktop\pruebas\personalizationRESTAndroid\personalization\personalization\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\marir\Desktop\pruebas\personalizationRESTAndroid\personalization\personalization\obj\Debug\netstandard2.0\personalization.dll
+C:\Users\marir\Desktop\pruebas\personalizationRESTAndroid\personalization\personalization\obj\Debug\netstandard2.0\refint\personalization.dll
+C:\Users\marir\Desktop\pruebas\personalizationRESTAndroid\personalization\personalization\obj\Debug\netstandard2.0\personalization.pdb

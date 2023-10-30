@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="personalization.Views.PriorityView"
+             BackgroundColor="#4495FA">
+    <ContentPage.Content>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="150" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="*" />
+                <RowDefinition Height="Auto" />
+            </Grid.RowDefinitions>
+
+            <Image Source="logobeuh.png" Aspect="AspectFit" WidthRequest="200" HorizontalOptions="Center" VerticalOptions="Start" Grid.Row="0" />
+
+            <Label Text="¡Queremos conocerte!"
+             TextColor="Black"
+             FontSize="24"
+             HorizontalOptions="Center"
+             VerticalOptions="CenterAndExpand" Grid.Row="1"
+            />
+
+            <Label Text="Ahora queremos saber qué es más importante para ti a la hora de ser notificado sobre un evento próximo a tu ubicación."
+         TextColor="Black"
+         FontSize="16"
+         HorizontalOptions="Center"
+         VerticalOptions="Center" Grid.Row="2" 
+         VerticalTextAlignment="Center" Margin="15,0,15,15"
+       />
+
+            <CollectionView BackgroundColor="White"  SelectionMode="Multiple" Grid.Row="3">
+
+                <CollectionView.Header>
+                    <StackLayout>
+                        <Label Text=" Selecciona el número del criterio conforme sea más importante para ti (4) o menos importante (1)"
+                         TextColor="#424949"
+                         FontSize="16"
+                         HorizontalOptions="Center"
+                         VerticalOptions="Center" Grid.Row="2" 
+                         VerticalTextAlignment="Center" Margin="15,0,15,15"
+                      />
+                    </StackLayout>
+                </CollectionView.Header>
+                
+                <CollectionView.Footer>
+                    <StackLayout>
+                        <Button Text="Guardar"
+                             Margin="150,0,150,0"
+                             BackgroundColor="#FFD24C"
+                             CornerRadius="15"
+                             BorderWidth="2"
+                         />
+                    </StackLayout>
+                </CollectionView.Footer>
+
+            </CollectionView>
+
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>
